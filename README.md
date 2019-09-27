@@ -26,13 +26,6 @@ Once built, you can run the tests:
 Test ---> Windows ----> Test Explorer ---> WOFClassLibTests ----> Run all tests (green, upper left)
 ```
 
-## Authors
-
-* **Denzale Reeze** - *Puzzle class, & associated tests* - [denzalereese](https://github.com/denzalereese)
-* **Diane Kato** - *Player class, roasts & associated tests* - [dnkato](https://github.com/dnkato)
-* **Du Tram** - *Game class, exception handling & bug fixes* - [dtram52](https://github.com/dtram52)
-* **Lisette Hamilton** - *Game class, documentation, & bug fixes* - [lphamilton](https://github.com/lphamilton)
-
 ## Acknowledgments
 
 * Hat tip to the [LEAP Apprentiship Program](http://www.industryexplorers.com/)!
